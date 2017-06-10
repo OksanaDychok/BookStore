@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DAL.Book>
+
+@{
+    ViewBag.Title = "ViewBook";
+}
+
+<h2>ViewBook</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.countpage)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.description)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Sages)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.countpage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @foreach (var sa in item.Sages)
+                {
+                    @Html.DisplayFor(saitem => sa.name)<br>
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Order Now", "OrderNowBook", "CartItem", new { id = item.ID }, null) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID }, null)
+            </td>
+        </tr>
+    }
+
+</table>

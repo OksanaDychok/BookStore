@@ -1,0 +1,42 @@
+﻿@using System.Linq
+@using DAL;
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cart</title>
+</head>
+<h2>Cart</h2>
+
+<body>
+    <table class="table">
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Sub total</th>
+        </tr>
+        @{float s = 0;}
+        @if ((List<CartItem>)Session["cart"] != null)
+        {
+            foreach (var item in (List<CartItem>)Session["cart"])
+            {
+                <tr>
+                    <td>@item.BookName</td>
+                    <td>@item.BookPrice</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.BookPrice * item.Quantity)</td>
+                    <td>@Html.ActionLink("Delete", "Delete", "CartItem", new { id = item.ID }, null)</td>
+                </tr>
+                s = s + @item.Quantity * @item.BookPrice;
+            }
+        }
+    </table>
+    <div>
+        The amount of your order is @s
+    </div>
+    <div>
+        @Html.ActionLink("Back to List", "ViewBook", "Book") | @Html.ActionLink("Buy books", "Buybooks", "CartItem")
+    </div>
+
+</body>
+</html>

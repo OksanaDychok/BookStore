@@ -1,0 +1,69 @@
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\Repository.dll.config
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\Repository.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\Repository.pdb
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\obj\Debug\Repository.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\Repository\obj\Debug\Repository.pdb
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll.config
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\bin\Debug\Repository.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\bin\Debug\Repository.pdb
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\obj\Debug\Repository.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\Repository\obj\Debug\Repository.pdb
+C:\Users\Администратор\Desktop\UpdateSage\Repository\obj\Debug\Repository.dll
+C:\Users\Администратор\Desktop\UpdateSage\Repository\obj\Debug\Repository.pdb
+C:\Users\Администратор\Desktop\UpdateSage\Repository\bin\Debug\Repository.dll.config
+C:\Users\Администратор\Desktop\UpdateSage\Repository\bin\Debug\Repository.dll
+C:\Users\Администратор\Desktop\UpdateSage\Repository\bin\Debug\Repository.pdb
+C:\Users\Администратор\Desktop\UpdateSage\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\UpdateSage\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\UpdateSage\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\UpdateSage\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\UpdateSage\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\bin\Debug\Repository.dll.config
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\bin\Debug\Repository.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\bin\Debug\Repository.pdb
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\obj\Debug\Repository.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\obj\Debug\Repository.pdb
+C:\Users\Администратор\Desktop\UpdateUpdateSage\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\bin\Debug\Repository.dll.config
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\bin\Debug\Repository.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\bin\Debug\Repository.pdb
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.xml
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\obj\Debug\Repository.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\Repository\obj\Debug\Repository.pdb
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\Repository.dll.config
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\Repository.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\Repository.pdb
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.xml
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\obj\Debug\Repository.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\obj\Debug\Repository.pdb
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\Repository.dll.config
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\Repository.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\Repository.pdb
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.xml
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\obj\Debug\Repository.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\Repository\obj\Debug\Repository.pdb

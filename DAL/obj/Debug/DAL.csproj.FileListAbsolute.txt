@@ -1,0 +1,93 @@
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\DAL.dll.config
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\DAL.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\DAL.pdb
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\Repository.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\Repository.pdb
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\obj\Debug\DAL.dll
+C:\Users\s22-rp\Documents\Visual Studio 2012\Projects\MvcApplication4\DAL\obj\Debug\DAL.pdb
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll.config
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\DAL.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\DAL.pdb
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\Repository.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\Repository.pdb
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\obj\Debug\DAL.dll
+C:\Users\Администратор\Downloads\Repository\MvcApplication4\DAL\obj\Debug\DAL.pdb
+C:\Users\Администратор\Desktop\UpdateSage\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\UpdateSage\DAL\obj\Debug\DAL.dll
+C:\Users\Администратор\Desktop\UpdateSage\DAL\obj\Debug\DAL.pdb
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\DAL.dll.config
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\DAL.dll
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\DAL.pdb
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\Repository.dll
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\Repository.pdb
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\UpdateSage\DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\DAL.dll.config
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\DAL.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\DAL.pdb
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\Repository.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\Repository.pdb
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\obj\Debug\DAL.dll
+C:\Users\Администратор\Desktop\UpdateUpdateSage\DAL\obj\Debug\DAL.pdb
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\DAL.dll.config
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\DAL.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\DAL.pdb
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\Repository.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\System.Web.Razor.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\System.Web.WebPages.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\Repository.pdb
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.xml
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\obj\Debug\DAL.dll
+E:\Серверне Web програмування\Lab_2\UpdateUpdateSage\DAL\obj\Debug\DAL.pdb
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\DAL.dll.config
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\DAL.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\DAL.pdb
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\Repository.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\System.Web.Mvc.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\Repository.pdb
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.xml
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\obj\Debug\DAL.dll
+F:\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\obj\Debug\DAL.pdb
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\DAL.dll.config
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\DAL.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\DAL.pdb
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\Repository.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\System.Web.Mvc.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\Repository.pdb
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.xml
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\obj\Debug\DAL.dll
+F:\Drive\Серверне Web програмування\Lab_2\Sage_with_midel\DAL\obj\Debug\DAL.pdb
